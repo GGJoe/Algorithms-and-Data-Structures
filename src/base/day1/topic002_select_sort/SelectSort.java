@@ -1,4 +1,4 @@
-package base.day1.tpic002_select_sort;
+package base.day1.topic002_select_sort;
 
 /**选择排序
  * @author 郭家赫
